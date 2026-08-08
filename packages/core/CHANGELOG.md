@@ -1,5 +1,12 @@
 # @docx-editor.dev/core
 
+## 2.2.0
+
+### Patch Changes
+
+- Updated dependencies [568ccf7]
+  - @docx-editor.dev/i18n@2.2.0
+
 ## 2.1.3
 
 ### Patch Changes
